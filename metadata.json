@@ -1,0 +1,5 @@
+{
+  "name": "XBAVLY Ai",
+  "description": "An intelligent platform for generating and editing images using AI. It allows users to transform their ideas into stunning realistic or artistic photos in seconds, using the latest AI technologies like Imagen and Nano Banana (gemini-2.5-flash-image).",
+  "requestFramePermissions": []
+}
